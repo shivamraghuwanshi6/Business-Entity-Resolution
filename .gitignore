@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+artifacts/
+output/
+dataset/
+*.zip
+*.parquet
+.DS_Store
