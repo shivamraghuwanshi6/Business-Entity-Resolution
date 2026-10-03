@@ -7,3 +7,4 @@ dataset/
 *.zip
 *.parquet
 .DS_Store
+dataset
